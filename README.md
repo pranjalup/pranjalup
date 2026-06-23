@@ -11,7 +11,7 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]( https://www.linkedin.com/in/pranjal-upadhyay-242a09362/)
 
 ---
 
