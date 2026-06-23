@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Upadhyay</h1>
 <h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
 
-- 🔭 I'm currently working on **NIMS Marik Zone** (Attendance Portal)
+- 🔭 I'm currently working on **dashboard,front end and backend** (deployed 10+ projects on both)
 - 🌱 I'm currently learning **React, Node.js, Supabase**
 - 👯 I'm looking to collaborate on **Web Development**
 - 💬 Ask me about **JavaScript, HTML, CSS, Supabase**
