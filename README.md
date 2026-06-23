@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **React, Node.js, Supabase**
 - 👯 I'm looking to collaborate on **Web Development**
 - 💬 Ask me about **JavaScript, HTML, CSS, Supabase**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **pranjalu05@gmail.com**
 - ⚡ Fun fact: **I build things that actually get used!**
 
 ---
