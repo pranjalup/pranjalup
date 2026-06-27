@@ -66,7 +66,17 @@ Currently building a **College Portal for Professors** using Next.js + Supabase 
 
 ---
 
-### 🏫 5. College Portal for Professors *(In Progress)*
+### 📈 5. WealthLens — Investment Dashboard
+> A fintech-style investment dashboard built with Next.js + Tailwind CSS
+
+- 💹 Displays portfolio overview, investment data, and financial metrics in a clean UI
+- ⚡ Built with **Next.js** (SSR) + **Tailwind CSS** — optimized for performance
+- 🔌 REST API data fetching with dynamic rendering
+- 🔗 **Live:** [wealthlens-sable.vercel.app](https://wealthlens-sable.vercel.app)
+
+---
+
+### 🏫 6. College Portal for Professors *(In Progress)*
 > A full-stack portal for professors to manage students, content, and resources
 
 - 🔐 Authentication and role-based access using **Supabase**
@@ -89,4 +99,3 @@ I'm actively looking for **Frontend Developer Intern** opportunities where I can
 📧 pranjalu05@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/pranjal-upadhyay-242a09362/)
 🌐 [Portfolio](https://myportfoliouser.netlify.app/)
-
