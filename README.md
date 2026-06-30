@@ -85,6 +85,13 @@ Currently building a **College Portal for Professors** using Next.js + Supabase 
 
 ---
 
+### 🛍️ 7. ShopMind AI
+> An AI-powered shopping/e-commerce assistant web app
+- 🤖 Integrates AI features for smarter shopping experiences
+- 🔐 Authentication powered by **Supabase**
+- ⚡ Built with **Next.js**, deployed on **Vercel**
+- 🔗 **Live:** [shopmind-ai-beta.vercel.app](https://shopmind-ai-beta.vercel.app)
+
 ## 📊 GitHub Stats
 
 ![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalup&show_icons=true&theme=tokyonight)
